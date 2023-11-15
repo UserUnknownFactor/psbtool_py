@@ -1,0 +1,8 @@
+__pycache__
+.backup
+*.scn
+*.zip
+.vscode
+*.csv
+psbtool_py.egg-info
+/build
